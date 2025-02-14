@@ -8,7 +8,7 @@ The project is about detecting the disease that are very common among plants and
 
 I have used a custom CNN algorithm to detect a plant disease from a pretrained database. In the above image the leave is of mango which is having disease Anthracnose. 
 
-## Look and feel of the website
+## Look and feel of the websit
 
 ![Front_page](images/Frontpage.png)
 
